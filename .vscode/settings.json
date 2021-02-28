@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "limits": "c",
+        "string.h": "c",
+        "typeinfo": "c",
+        "device.h": "c"
+    }
+}
